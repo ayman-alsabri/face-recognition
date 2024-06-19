@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ayman-alsabri/face-recognition/static/css/main.90403b75.css",
-    "main.js": "/ayman-alsabri/face-recognition/static/js/main.18563e89.js",
-    "static/js/453.192a37a2.chunk.js": "/ayman-alsabri/face-recognition/static/js/453.192a37a2.chunk.js",
-    "static/media/logo.png": "/ayman-alsabri/face-recognition/static/media/logo.35a1bba9e091512a4532.png",
-    "index.html": "/ayman-alsabri/face-recognition/index.html",
-    "main.90403b75.css.map": "/ayman-alsabri/face-recognition/static/css/main.90403b75.css.map",
-    "main.18563e89.js.map": "/ayman-alsabri/face-recognition/static/js/main.18563e89.js.map",
-    "453.192a37a2.chunk.js.map": "/ayman-alsabri/face-recognition/static/js/453.192a37a2.chunk.js.map"
+    "main.css": "/ayman-alsabri/face-recognition.git/static/css/main.90403b75.css",
+    "main.js": "/ayman-alsabri/face-recognition.git/static/js/main.aa9d45a5.js",
+    "static/js/453.192a37a2.chunk.js": "/ayman-alsabri/face-recognition.git/static/js/453.192a37a2.chunk.js",
+    "static/media/logo.png": "/ayman-alsabri/face-recognition.git/static/media/logo.35a1bba9e091512a4532.png",
+    "index.html": "/ayman-alsabri/face-recognition.git/index.html",
+    "main.90403b75.css.map": "/ayman-alsabri/face-recognition.git/static/css/main.90403b75.css.map",
+    "main.aa9d45a5.js.map": "/ayman-alsabri/face-recognition.git/static/js/main.aa9d45a5.js.map",
+    "453.192a37a2.chunk.js.map": "/ayman-alsabri/face-recognition.git/static/js/453.192a37a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90403b75.css",
-    "static/js/main.18563e89.js"
+    "static/js/main.aa9d45a5.js"
   ]
 }
